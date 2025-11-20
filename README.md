@@ -11,6 +11,7 @@ I'm a Computer Engineering student at the University of Aveiro [@detiuaveiro]
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## 📊 GitHub Stats⚡:
@@ -37,6 +38,4 @@ Department / lab: `@detiuaveiro`
 </div>
 
 ---
-
-## 📝 Footer
 Thanks for visiting my profile.

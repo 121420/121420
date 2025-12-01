@@ -27,16 +27,5 @@ I'm a Computer Engineering student at the University of Aveiro [@detiuaveiro]
 ## 📚 Education
 **Universidade de Aveiro** — Computer Engineering  
 Department / lab: `@detiuaveiro`  
-
-## 🌐 Contact me: 
-<div>
-  <a href = "mailto:kelvin.loforte@ua.pt️"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-## Social Media:
-<div> 
-<a href="https://www.instagram.com/_kelvin.loforte_?igsh=Zm1yNXFhYW1laWZr&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-</div>
-
 ---
 Thanks for visiting my profile.

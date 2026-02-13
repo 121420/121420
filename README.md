@@ -15,15 +15,6 @@ I'm a Computer Engineering student at the University of Aveiro [@detiuaveiro]
   <img align="center" label="SQL" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-## 📊 GitHub Stats⚡:
-<div>
-  <a href="https://beacons.ai/121420">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=121420&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=121420&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
-
 ## 📚 Education
 **Universidade de Aveiro** — Computer Engineering  
 Department / lab: `@detiuaveiro`  

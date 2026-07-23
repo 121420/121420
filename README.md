@@ -1,22 +1,34 @@
 # Kelvin Loforte
-## 📌About me
-### Hello!👋 
-I'm a Computer Engineering student at the University of Aveiro [@detiuaveiro]
+## About me
+### Hello, I'm Kelvin Loforte!👋 
+**Computer Engineering Student** at the University of Aveiro ([@detiuaveiro](https://github.com/detiuaveiro))  
+**Aspiring Full Stack Developer** | Focused on React, Spring Boot & Distributed Systems  
+**Kickboxing Athlete** | Bringing discipline and strategic thinking to code
 
-## 💻 Tech Stack:
-<div style="display: inline_block"><br>
-  <img align="center" label="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" label="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" label="CSS" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" label="Javascript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" label="C" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" label="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" label="Bash" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" label="SQL" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+---
 
-## 📚 Education
+## 💻 Tech Stack & Tools
+- **Languages:** Java, JavaScript, TypeScript, C, Python, SQL
+- **Frontend:** React, Next.js, HTML5, CSS3/Tailwind
+- **Backend:** Spring Boot, Node.js, RESTful APIs, RabbitMQ
+- **Databases & DevOps:** PostgreSQL, Docker, Git, Linux
+
+---
+
+## Featured Projects
+- **Smart Parking System:** Real-time parking tracking using Spring Boot, RabbitMQ, and React.
+- **UrbanSync:** Full-stack management interface with Spring Boot backend & React frontend.
+  
+---
+
+## Connect with me:
+[LinkedIn](www.linkedin.com/in/kelvin-loforte) | [Email](mailto:lofortekelvin05@gmail.com)
+
+---
+
+## Education
 **Universidade de Aveiro** — Computer Engineering  
 Department / lab: `@detiuaveiro`  
+
 ---
 Thanks for visiting my profile.
